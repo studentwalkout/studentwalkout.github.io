@@ -381,7 +381,7 @@
 		}
 
 	h1 {
-		font-size: 32px;
+		font-size: 2.5em;
 		line-height: 1.25em;
 	}
 
@@ -959,7 +959,7 @@
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 700;
-		height: 2.5em;
+		height: 2.75em;
 		line-height: 2.75em;
 		padding: 0 1.125em;
 		text-align: center;
